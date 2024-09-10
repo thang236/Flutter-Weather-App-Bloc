@@ -64,7 +64,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For inquiries or suggestions, please feel free to open an issue or contact the project maintainer at huy.mobcontact@gmail.com.
+For inquiries or suggestions, please feel free to open an issue or contact the project maintainer at thang.dev03@gmail.com.
 
 ---
 
